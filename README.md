@@ -1,9 +1,25 @@
 <h1 align="center">Hello World 👋, I'm Daniel Estrada</h1>
-<h3 align="center">A student from 42 Programming school, passionate for learning new skills and discovering what he likes most.</h3>
+<h3 align="center">Trying to learn something new everyday.</h3>
+
+GOALS:
+-Learn how to code and discover what field of programming suits me more.
+-Learn about machine learning and artificial intelligence,
+  I am quite interested in Neural Networks and how the brain works 🧠 :).
+-Take my best shot at the opportunities I have been offered.
 
 - 🔭 I’m currently working on **push_swap**
+- 📖 I’m currently studying the OSSU University Courses and 42 Core Cursus.
 
-<h3 align="left">Connect with me:</h3>
+FUTURE PROJECTS:
+- **42 Project- Pipex**
+- **Record every project and milestone in Github**
+- **Build Medium blog to show what I learn.**
+
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  
+- 💼 any cool projects? contact me, [email](mailto:destrada.work@gmail.com) :)
+- 💬 ask me about anything, i am happy to help if I can;
+
 <p align="left">
 </p>
 
