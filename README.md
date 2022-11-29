@@ -2,10 +2,10 @@
 <h3 align="center">Trying to learn something new everyday.</h3>
 
 GOALS:
--Learn how to code and discover what field of programming suits me more.
--Learn about machine learning and artificial intelligence,
+- Learn how to code and discover what field of programming suits me more.
+- Learn about machine learning and artificial intelligence,
   I am quite interested in Neural Networks and how the brain works 🧠 :).
--Take my best shot at the opportunities I have been offered.
+- Take my best shot at the opportunities I have been offered.
 
 - 🔭 I’m currently working on **push_swap**
 - 📖 I’m currently studying the OSSU University Courses and 42 Core Cursus.
@@ -16,6 +16,8 @@ FUTURE PROJECTS:
 - **Build Medium blog to show what I learn.**
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <br>
+  
   
 - 💼 any cool projects? contact me, [email](mailto:destrada.work@gmail.com) :)
 - 💬 ask me about anything, i am happy to help if I can;
