@@ -7,16 +7,16 @@ GOALS:
   I am quite interested in Neural Networks and how the brain works 🧠 :).
 - Take my best shot at the opportunities I have been offered.
 
+RIGHT NOW:
 - 🔭 I’m currently working on **push_swap**
 - 📖 I’m currently studying the OSSU University Courses and 42 Core Cursus.
 
  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
- 
+ <br>
 FUTURE PROJECTS:
 - **42 Project- Pipex**
 - **Record every project and milestone in Github**
 - **Build Medium blog to show what I learn.**
- 
  <br>
 
  CONTACT ME:
