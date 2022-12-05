@@ -10,7 +10,8 @@ RIGHT NOW:
 - 🔭 I’m currently working on **push_swap**
 - 📖 I’m currently studying the OSSU University Courses and 42 Core Cursus.
 
- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+ <img align="right" alt="GIF" src="![code](https://user-images.githubusercontent.com/114681445/205600412-d449d870-42fc-4f4d-a564-0c5ff270d980.gif)
+" width="500" height="320" />
 
 FUTURE PROJECTS:
 - **42 Project- Pipex**
