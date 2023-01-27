@@ -4,7 +4,6 @@
 GOALS:
 - Learn how to code and discover what field of programming suits me more.
 - Learn about machine learning and artificial intelligence, I am quite interested in Neural Networks and how the brain works 🧠 :).
-- Take my best shot at the opportunities I have been offered.
 
 RIGHT NOW:
 - 🔭 I’m currently working on **push_swap**
