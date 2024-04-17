@@ -5,10 +5,6 @@ GOALS:
 - Learn how to code and discover what field of programming suits me more.
 - Learn about machine learning and artificial intelligence, I am quite interested in Neural Networks and how the brain works 🧠 :).
 
-RIGHT NOW:
-- 🔭 I’m currently working on **pipex**
-- 📖 I’m currently focusing on 42 Core Cursus and my BCs in Marketing.
-
  <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/114681445/205600598-7e891023-cdff-4fb3-916c-4c5ad0c00917.gif" width="500" height="320" />
 
 FUTURE PROJECTS:
