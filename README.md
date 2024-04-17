@@ -8,7 +8,7 @@ GOALS:
  <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/114681445/205600598-7e891023-cdff-4fb3-916c-4c5ad0c00917.gif" width="500" height="320" />
 
 FUTURE PROJECTS:
-- **42 Project- Minishell**
+- **A Note  Web App**
 - **Record every project and milestone in Github**
  
  <br>
